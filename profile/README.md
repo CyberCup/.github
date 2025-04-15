@@ -2,7 +2,7 @@
 
 **Il primo torneo italiano di Capture The Flag (CTF)**
 
-Benvenuti nel repository ufficiale di CyberCup.IT, il torneo CTF italiano che unisce squadre di ogni livello in una serie di eventi mensili per mettere alla prova e migliorare le proprie competenze in cybersecurity.
+Benvenuti nel profilo GitHub ufficiale di CyberCup.IT, il torneo CTF italiano che unisce squadre di ogni livello in una serie di eventi mensili per mettere alla prova e migliorare le proprie competenze in cybersecurity.
 
 ---
 
@@ -38,6 +38,7 @@ Le squadre Junior possono partecipare a entrambe le classifiche: generale e Juni
 - 🌍 [Sito ufficiale](https://cybercup.it/)
 - 📣 [Server Discord](https://cybercup.it/) (link disponibile sul sito)
 - 📊 [Scoreboard](https://cybercup.it/scoreboard)
+- 📜 [Comitato Organizzatore](https://cybercup.it/who)
 - 📝 [Modulo di iscrizione](https://cybercup.it/register)
 
 ---
